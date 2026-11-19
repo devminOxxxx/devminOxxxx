@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I'm devminOxxxx</h2>
+<h2 align="center">Hi there 👋 I'm devmin0x</h2>
 
 <p align="center">
   A student developer building <b>cross-platform apps with Flutter</b> and exploring the web.
