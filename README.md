@@ -19,7 +19,7 @@ devminOxxxx@github:~$ cat stack.txt
 languages : [ C, C++, Dart, JavaScript ]
 mobile    : [ Flutter ]
 web       : [ HTML, CSS ]
-backend   : [ Firebase ]
+backend   : [ Firebase, MySQL ]
 tools     : [ Git, GitHub ]
 ```
 
